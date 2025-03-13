@@ -18,3 +18,12 @@ function changeText() {
 
 setInterval(changeText, 2000);
 changeText();
+
+// Select Elements
+const hamburger = document.querySelector('.hamburger');
+const nav = document.querySelector('.nav');
+
+// Toggle Navbar
+hamburger.addEventListener('click', () => {
+  nav.classList.toggle('active');
+});
