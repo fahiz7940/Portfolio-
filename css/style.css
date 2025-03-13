@@ -97,7 +97,7 @@ a:hover .text {
 
 /* main section */
 .main-bg {
-  background: url(/assets/img/main-bg-min.jpg);
+  background: url(../assets/img/main-bg-min.jpg);
   /* background-color: #1e1e1e; */
   background-repeat: no-repeat;
   background-position: center;
@@ -314,7 +314,7 @@ a:hover .text {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/assets/img/box1-min.jpg);
+  background: url(../assets/img/box1-min.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -329,7 +329,7 @@ a:hover .text {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/assets/img/box2-min.jpg);
+  background: url(../assets/img/box2-min.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -342,7 +342,7 @@ a:hover .text {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/assets/img/box3.webp);
+  background: url(../assets/img/box3.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -355,7 +355,7 @@ a:hover .text {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/assets/img/box4.webp);
+  background: url(../assets/img/box4.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
