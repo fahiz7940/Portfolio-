@@ -95,37 +95,6 @@ a:hover .text {
   color: var(--paragraph-color);
 }
 
-/* Hamburger Menu (Hidden by Default) */
-.hamburger {
-  display: none;
-  font-size: 24px;
-  cursor: pointer;
-  color: var(--text-color);
-}
-
-/* Responsive Design */
-@media screen and (max-width: 768px) {
-  .nav-links {
-    display: none;
-    flex-direction: column;
-    background: var(--secondary-color);
-    position: absolute;
-    top: 60px;
-    right: 0;
-    width: 200px;
-    padding: 20px;
-    border-radius: 10px;
-  }
-
-  .nav-links.active {
-    display: flex;
-  }
-
-  .hamburger {
-    display: block;
-  }
-}
-
 /* main section */
 .main-bg {
   background: url(../assets/img/main-bg-min.jpg);
