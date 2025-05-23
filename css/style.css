@@ -164,11 +164,11 @@ a:hover .text {
 
 /* main section */
 .main-bg {
-  background: url(../assets/img/main-bg-min.jpg);
-  /* background-color: #1e1e1e; */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+/*   background: url(../assets/img/main-bg-min.jpg); */
+  background-color: black;
+/*   background-repeat: no-repeat; */
+/*   background-position: center; */
+/*   background-size: cover; */
   height: 100vh;
 }
 .main {
